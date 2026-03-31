@@ -1,0 +1,26 @@
+Stay Safe Online: Prevention Checklist
+Target File: task-5-cybercrime/prevention-checklist.md
+1. Inspect the "From" Address: Always check the sender's email address. A real
+company will never email you from a public domain like @gmail.com or
+@outlook.com
+2. Hover Before You Click: On a laptop, hover your mouse over any link to see the
+actual URL. If the text says tcs.com but the link points to bit.ly/random-code, do not
+click it.
+3. Use Hardware/App 2FA: Enable Two-Factor Authentication using an app like
+Google Authenticator for your university portal and email. This ensures that even if a
+phisher steals your password, they cannot log in.
+4. Avoid Public Charging Stations: Be wary of "Juice Jacking" at railway stations or
+airports; use your own adapter and cable to prevent data theft via USB.
+5. Verify via OƯicial Channels: If you get a suspicious oƯer, go to the company’s
+oƯicial LinkedIn page or website and contact their HR department directly to verify.
+6. Regularly Clear Browser Cookies: This prevents "session hijacking," where hackers
+use your active login "cookies" to bypass passwords entirely.
+7. UPI Safety (Financial): Verify the Merchant Name. When scanning a QR code at a
+college canteen or store, always double-check the name displayed on your screen
+before hitting 'Pay.'
+8. UPI Safety (PIN Protection): A PIN is only for sending money. If a "recruiter" or
+"buyer" asks you to enter your UPI PIN to "receive a security deposit" or "stipend," it
+is a guaranteed scam.
+Reporting Channels:
+ National Cyber Crime Portal: cybercrime.gov.in
+ National Helpline: 1930 (Report immediately if you have lost money). 
